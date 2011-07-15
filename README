@@ -1,0 +1,7 @@
+"Backboned" is a AJAX'ified WordPress-theme driven by the power of Backbone.js.
+
+To handle the requests by Backbone.js a simple PHP-MVC with - a kind of - child-theme is implemented. The output is either a pure JSON-object for asynchronous requests, or static HTML for synchronous requests. This makes sure, search crawlers get content to crawl by replacing the hashbang with "_escaped_fragment_".
+
+This solution is messy as hell, but this way makes crawlable AJAX-content possible without implementing a headless browser on the server.
+
+Warning: I am a frontend developer. Therefore the PHP code isn't state-of-the-art, neat, performant, secure or whatever. So don't use this theme for productive usage!
