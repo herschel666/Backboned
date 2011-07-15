@@ -5,3 +5,5 @@ To handle the requests by Backbone.js a simple PHP-MVC with - a kind of - child-
 This solution is messy as hell, but this way makes crawlable AJAX-content possible without implementing a headless browser on the server.
 
 Warning: I am a frontend developer. Therefore the PHP code isn't state-of-the-art, neat, performant, secure or whatever. So don't use this theme for productive usage!
+
+Demo: http://emanuel.kodingen.com/wordpress/
