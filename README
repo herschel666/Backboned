@@ -7,3 +7,7 @@ This solution is messy as hell, but this way makes crawlable AJAX-content possib
 Warning: I am a frontend developer. Therefore the PHP code isn't state-of-the-art, neat, performant, secure or whatever. So don't use this theme for productive usage!
 
 Demo: http://emanuel.kodingen.com/wordpress/
+
+And to prove crawlability oft the theme:
+
+http://www.google.com/search?q=site:emanuel.kodingen.com/wordpress/
